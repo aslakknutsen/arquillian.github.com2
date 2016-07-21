@@ -1,0 +1,14 @@
+- path: wildfly-arquillian
+  relative_path:
+  owner: wildfly
+  host: github.com
+  type: git
+  html_url: https://github.com/wildfly/wildfly-arquillian
+  clone_url: git://github.com/wldfly/wildfly-arquillian.git
+- path: tomee
+  relative_path: arquillian/
+  owner: apache
+  host: github.com
+  type: git
+  html_url: https://github.com/apache/tomee
+  clone_url: git://github.com/apache/tomee.git
